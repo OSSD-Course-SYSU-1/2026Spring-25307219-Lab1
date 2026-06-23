@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/login/CountryRegion",
+    "pages/login/Login",
+    "pages/search/SearchPage",
+    "pages/search/SearchShowPage",
+    "pages/product/ProductDetail"
+  ]
+}
